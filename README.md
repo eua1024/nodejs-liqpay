@@ -1,1 +1,1 @@
-# NodeJS LiqPAY
+# NodeJS LiqPay
